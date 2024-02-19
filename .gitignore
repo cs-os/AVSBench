@@ -1,3 +1,6 @@
 *.pth
 __pycache__
 .DS_Store
+avsbench_data/
+avs_scripts/avs_s4/train_logs
+/pretrained_backbones
